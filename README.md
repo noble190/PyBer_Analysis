@@ -39,11 +39,6 @@ Based on the data, we can make three recommendations to the CEO:
 
 1. Rural (and to a lesser extent, Suburban) areas are underserved with regard to available drivers. A smaller driver pool would likely result in more waiting time and less options available for riders, which would discourage ridership. Perhaps financial incentives may be offered to Urban drivers to shift them to underserved areas.
 
-2. 
+2. Aside from addressing the immediate driver shortage, the data does not provide a compelling reason to invest heavily into rural areas. The total fares for Rural municipalities is only a tenth of the total of Urban areas. Investment and expansion should focus on Urban and Suburban areas, instead.
 
-
-
-
-
-
-Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
+3. Currently, Urban areas have significantly more drivers than rides. This indicates unfilled rider capacity for PyBer. We would be able to increase ridership without investing in more drivers. It may be worthwhile to run an advertising campaign to attract more riders in the near future.
